@@ -1,0 +1,53 @@
+CERN Open Hardware Licence Version 2 - Permissive
+[CERN-OHL-P v2 License Full Text](https://ohwr.org/cern_ohl_p_v2.txt)
+
+Preamble
+
+CERN has developed this licence to promote collaboration among hardware designers and to provide a legal framework for sharing and distributing hardware designs. This version of the CERN Open Hardware Licence is the Permissive variant; it allows licensees to use the licensed material for any purpose, to modify it and to distribute it, with or without modifications, in any medium, without any obligation to distribute the sources, provided that certain conditions are met.
+
+1 Definitions
+
+    In this Licence, the following terms have the following meanings:
+
+    a. "Licence" means this CERN Open Hardware Licence Version 2 - Permissive.
+
+    b. "Licensee" or "You" means any natural or legal person exercising rights under this Licence.
+
+    c. "Licensor" means the natural or legal person who creates or modifies the Licensed Material and offers it under the terms and conditions of this Licence.
+
+    d. "Licensed Material" means the material that is subject to this Licence, and is composed of:
+        - Documentation, which means technical information about the Hardware, including design files, specifications, and other data, irrespective of the medium in which it is stored or transmitted;
+        - Hardware, which means the physical object which is created from the Documentation;
+        - Components, which means the parts used in the creation of the Hardware.
+
+2 Grant of Licence
+
+    a. The Licensor hereby grants You a worldwide, royalty-free, non-exclusive licence to use the Licensed Material for any purpose, including commercial purposes, without any obligation to disclose modifications or source materials.
+
+    b. You may reproduce, modify, distribute, make, use, sell, offer for sale, and otherwise exploit the Licensed Material.
+
+    c. You are not required to publish or distribute any modifications or source materials derived from the Licensed Material.
+
+3 No Warranty or Liability
+
+    a. The Licensed Material is provided "as is", without warranty of any kind, either express or implied, including, but not limited to, the implied warranties of merchantability, fitness for a particular purpose and non-infringement.
+
+    b. In no event shall the Licensor be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the Licensed Material or the use or other dealings in the Licensed Material.
+
+4 Compliance
+
+    a. You must retain all copyright, patent, trademark, and attribution notices from the Licensed Material, including notices embedded in Documentation or displayed on Hardware.
+
+    b. You may place your own copyright notice on modifications, and may license such modifications under terms of your choice, provided they do not impose any additional restrictions on the Licensed Material.
+
+5 General
+
+    a. This Licence does not grant any rights under patents or trademarks owned by the Licensor except to the extent necessary to make use of the rights granted herein.
+
+    b. If any provision of this Licence is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable.
+
+    c. This Licence shall be governed by the laws of the jurisdiction of the Licensor.
+
+    d. You may not use the name of the Licensor or its contributors without express permission.
+
+END OF TERMS AND CONDITIONS
