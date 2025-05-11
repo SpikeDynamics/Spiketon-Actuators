@@ -18,6 +18,10 @@ This repository contains the full open-source release of Spiketon miniature line
 
 /patents  → list of patents
 
+/electronics → Schematics, PCB layouts
+
+/firmware → Control libraries, drivers
+
 /docs → Assembly instructions, performance data
 
 /examples → Sample integrations, demos
@@ -27,6 +31,8 @@ LICENSE → CERN OHL-P v2 license text
 README.md → This overview
 
 CONTRIBUTING.md → Guidelines for contributors
+
+
 
 
 
