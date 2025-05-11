@@ -15,11 +15,17 @@ This repository contains the full open-source release of Spiketon miniature line
 ## 📁 Repository Structure
 
 /cad → 3D models (.STEP, .STL, etc.)
+
 /patents  → list of patents
+
 /docs → Assembly instructions, performance data
+
 /examples → Sample integrations, demos
+
 LICENSE → CERN OHL-P v2 license text
+
 README.md → This overview
+
 CONTRIBUTING.md → Guidelines for contributors
 
 
