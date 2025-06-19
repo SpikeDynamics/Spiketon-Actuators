@@ -18,6 +18,8 @@ This repository contains the full open-source release of Spiketon miniature line
 
 /patents  → list of patents
 
+/products  → list of products with /cad, /docs, /examples subfolders
+
 /electronics → Schematics, PCB layouts
 
 /firmware → Control libraries, drivers
