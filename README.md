@@ -2,7 +2,7 @@
 
 # Spike Dynamics Open-Source Linear Actuator Spiketon
 
-This repository contains the full open-source release of Spiketon miniature linear actuator, designed for robotics, space exploration, medtech and high-precision systems.
+This repository contains the full open-source release of Spiketon miniature linear actuators, designed for robotics, space exploration, medtech, and high-precision systems.
 
 ## ✨ Features
 - Ultra-compact linear motion system
