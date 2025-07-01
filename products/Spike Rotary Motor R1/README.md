@@ -1,0 +1,1 @@
+The Spike Rotary Motor R1 rotates a shaft using a set of linear mechanisms that resemble simplified Spiketons. While R1 offers both advantages and drawbacks, it is better viewed as a thought-provoking concept than as a ready-to-use product.
