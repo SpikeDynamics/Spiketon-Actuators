@@ -1,2 +1,2 @@
 Guided Spiketon T2
-T2 is a Spiketon Actuator for moving back and forth along the rail (guide).
+Guided Spiketon T2 is a Spiketon Actuator for moving back and forth along a rod or a wire (guide).
