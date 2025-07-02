@@ -1,6 +1,6 @@
 # Spiketon-Actuators
 
-# Spike Dynamics Open-Source Linear Actuator Spiketon
+# Spike Dynamics Open-Source Linear Actuator
 
 This repository contains the full open-source release of Spiketon miniature linear actuators, designed for robotics, space exploration, medtech, and high-precision systems. All licensed devices are listed in the /products folder (CERN OHL-P v2 license).
 
