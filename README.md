@@ -1,4 +1,4 @@
-![Spiketon actuator](products/Spiketon M1/images/Green Spiketon M1.png)
+![Spiketon actuator](products/Spiketon%20M1/images/Green%20Spiketon%20M1.png)
 
 # Spiketon-Actuators
 
