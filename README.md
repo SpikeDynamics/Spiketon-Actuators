@@ -1,3 +1,5 @@
+![Spiketon actuator](products/Spiketon M1/images/Green Spiketon M1.png)
+
 # Spiketon-Actuators
 
 # Spike Dynamics Open-Source Linear Actuator
