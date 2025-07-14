@@ -4,6 +4,11 @@
 
 This repository contains the full open-source release of Spiketon miniature linear actuators, designed for robotics, space exploration, medtech, and high-precision systems. All licensed devices are listed in the /products folder (CERN OHL-P v2 license).
 
+## 💬 Join the Discussion
+
+Have questions or want to contribute ideas? Visit our [GitHub Discussions](https://github.com/SpikeDynamics/Spiketon-Actuators/discussions) and share your thoughts!
+
+
 ## ✨ Features
 - Ultra-compact linear motion system
 - Space- and mission-tested components
