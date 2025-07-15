@@ -1,4 +1,5 @@
-<img src="products/Spiketon%20M1/images/Green%20Spiketon%20M1.png" alt="Spiketon actuator" width="300">
+<img src="products/Spiketon%20M1/images/Green%20Spiketon%20M1.png" alt="Spiketon M1 Actuator" width="300">
+<img src="products/Spiketon%20T1/images/Green%20Spiketon%20T1.png" alt="Spiketon T1 Actuator" width="300">
 
 # Spiketon-Actuators
 
