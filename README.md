@@ -31,17 +31,16 @@
 
 ## 🔎 At a glance
 
-| Property                | Spec / Notes *(fill in as you validate)*                                 |
+| Property                | Spec / Notes                                 |
 |---                      |---                                                                        |
-| Typical drive           | 100–150 V piezo drive (sine or stepped)                                   |
-| Nominal force           | _TBD_ N (single stack ~100–300 N design range)                            |
+| Typical drive           | 100–150 V piezo drive (sine wave)                                   |
+| Nominal force           | single stack ~300 N                            |
 | Stroke / step           | _TBD_ mm / sub-mm stepping                                                |
-| Frequency range         | Up to ultrasonic regimes (variant-dependent)                              |
+| Frequency range         | Up to 20000HZ                              |
 | Key features            | Non-magnetic, radiation-tolerant, vacuum-compatible, low profile          |
 | Materials               | Spring steel / titanium alloys / ceramics (variant-dependent)             |
 | License                 | CERN OHL-P v2 (permissive open hardware)                                  |
 
-> Add measured plots in `docs/performance/` and link them here when available.
 
 ---
 
