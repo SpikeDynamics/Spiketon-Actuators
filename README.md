@@ -122,9 +122,9 @@ We welcome contributions (hardware, firmware, docs). Please:
 
 If this project helps your work, consider supporting ongoing development:
 
-- **GitHub Sponsors:** _add your link here (e.g., `https://github.com/sponsors/SpikeDynamics`)_  
-- **OpenCollective:** _add collective link here_  
-- **One-time:** _PayPal or other link here_
+- **GitHub Sponsors:
+- **OpenCollective: 
+- **One-time:
 
 Your support funds test hardware, documentation, and community help.
 
