@@ -18,8 +18,8 @@
 
 > _Replace with your real links once ready._
 
-- ▶️ **Watch:** [SpikeTon overview video](https://youtu.be/XXXXXXXXXXX)  
-  (or add a local MP4 at `docs/media/demo.mp4`)
+- ▶️ **Watch:** [SpikeTon overview video](examples/)  
+  
 
 - **What this project does**
   - Provides **tiny, high-force linear actuators** driven by piezo stacks.
