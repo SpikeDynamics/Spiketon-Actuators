@@ -116,8 +116,6 @@ We welcome contributions (hardware, firmware, docs). Please:
 3. File **Issues** with clear steps / photos / scope  
 4. Submit a **PR** with description, images, and validation notes
 
-Add issue/PR templates under `.github/` if you’d like structured reports.
-
 ---
 
 ## 💝 Donate / Sponsor
