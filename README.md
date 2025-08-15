@@ -105,8 +105,6 @@ CONTRIBUTING.md → Guidelines for contributors
 - Embedded automation where **motors don’t fit** (flat, non-magnetic, clean)  
 - Medical / lab tools (low EMI, compact, no lubrication)
 
-Add your integrations under `/examples/` with photos/GIFs and wiring notes.
-
 ---
 
 ## 🤝 Contributing
