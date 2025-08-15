@@ -13,7 +13,7 @@
 
 ---
 
-## 🎬 Project video (1 min) & what this does
+## 🎬 Project video & what this does
 
 
 - ▶️ **Watch:** [SpikeTon overview video](examples/)  
