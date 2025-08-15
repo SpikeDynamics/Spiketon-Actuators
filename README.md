@@ -15,7 +15,6 @@
 
 ## 🎬 Project video (1 min) & what this does
 
-> _Replace with your real links once ready._
 
 - ▶️ **Watch:** [SpikeTon overview video](examples/)  
   
