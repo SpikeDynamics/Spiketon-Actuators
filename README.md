@@ -71,7 +71,7 @@ CONTRIBUTING.md → Guidelines for contributors
 ## 🧪 Quick start (10 minutes)
 
 1. **Power & driver**  
-   Bench PSU up to **0–150 V** (per variant limits) + piezo driver (see `/electronics/`).
+   Bench PSU up to **0–150 V** + piezo driver (see `/electronics/`).
 
 2. **Wire it**  
    Follow the wiring diagram in the product’s folder (`/products/<variant>/`).
@@ -82,16 +82,7 @@ CONTRIBUTING.md → Guidelines for contributors
 4. **Observe motion**  
    Expect sub-mm stepping or amplified stroke (variant dependent).
 
-> ⚠️ **High-voltage safety**: Piezo drivers can be lethal. Use insulated connectors, one-hand rule, ESD protection, and follow creepage/clearance best practices. See `docs/safety.md`.
-
----
-
-## 🧩 Build: CAD → electronics → firmware
-
-- **CAD** (`/cad/`): export **STEP/STL** + annotated **2D drawings** (dims/tolerances/materials).  
-- **Electronics** (`/electronics/`): KiCad sources + **PDF schematics**, **Gerbers**, **BOM.csv**, driver limits (Vmax/Imax).  
-- **Firmware** (`/firmware/`): minimal driver examples (Arduino / PlatformIO / STM32), timing diagrams, recommended waveforms.  
-- **Docs** (`/docs/`): assembly guides, test procedures, performance plots (force vs. voltage/frequency, displacement).
+> ⚠️ **High-voltage safety**: Piezo drivers can be lethal. Use insulated connectors, one-hand rule, ESD protection, and follow creepage/clearance best practices.
 
 ---
 
