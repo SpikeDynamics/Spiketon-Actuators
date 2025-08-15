@@ -88,8 +88,6 @@ CONTRIBUTING.md → Guidelines for contributors
 
 ## 🧭 Products (jump straight in)
 
-> Each link should point to a product folder with: **images**, **CAD ZIP**, **docs**, and **examples**.
-
 - **Spike AA1 — Amplified actuator v1** → [`/products/spike-aa1/`](products/spike-aa1/)  
 - **Spike AA2 — Amplified actuator v2** → [`/products/spike-aa2/`](products/spike-aa2/)  
 - **Spike Rotary Motor R1 — Rotary piezo concept** → [`/products/spike-rotary-r1/`](products/spike-rotary-r1/)  
@@ -98,7 +96,6 @@ CONTRIBUTING.md → Guidelines for contributors
 - **SpikeTon M2 — Minimal-BOM linear** → [`/products/spiketon-m2/`](products/spiketon-m2/)  
 - **SpikeTon Muscle SM1 — Wire/rod rider** → [`/products/spiketon-muscle-sm1/`](products/spiketon-muscle-sm1/)
 
-> If a link 404s, create the folder and add a minimal `README.md` + assets checklist.
 
 ---
 
