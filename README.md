@@ -120,9 +120,9 @@ We welcome contributions (hardware, firmware, docs). Please:
 
 If this project helps your work, consider supporting ongoing development:
 
-- **GitHub Sponsors:
-- **OpenCollective: 
-- **One-time:
+- GitHub Sponsors:
+- OpenCollective: 
+- One-time:
 
 Your support funds test hardware, documentation, and community help.
 
