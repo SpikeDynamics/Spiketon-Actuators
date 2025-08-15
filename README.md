@@ -136,7 +136,7 @@ This project is licensed under **CERN OHL-P v2** (Permissive).
 
 - SPDX: `CERN-OHL-P-2.0`  
 - See `LICENSE` for full terms and attribution requirements.  
-- You may use, modify, and commercialize derivatives—credit appreciated.
+- You may use, modify, and commercialize derivatives credit appreciated.
 
 ---
 
