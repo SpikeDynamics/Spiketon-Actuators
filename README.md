@@ -142,6 +142,6 @@ This project is licensed under **CERN OHL-P v2** (Permissive).
 
 ## 🙋 Support & questions
 
-- Start a thread in **Discussions**  
+- Have questions or want to contribute ideas? Visit our [GitHub Discussions](https://github.com/SpikeDynamics/Spiketon-Actuators/discussions) and share your thoughts!  
 - Open an **Issue** for bugs or missing artifacts  
 - For collaboration or sponsorship: open a Discussion titled **“Partnering”**
