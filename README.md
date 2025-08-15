@@ -3,7 +3,7 @@
 
 # Spiketon-Actuators
 
-# SpikeTon Actuators — Open-Source Piezo Linear Motion (CERN OHL-P v2)
+# SpikeTon Actuators Open-Source Piezo Linear Motion (CERN OHL-P v2)
 
 [![License: CERN OHL-P v2](https://img.shields.io/badge/License-CERN%20OHL--P%20v2-blue.svg)](./LICENSE)
 [![Discussions](https://img.shields.io/badge/Community-Discussions-black?logo=github)](../../discussions)
