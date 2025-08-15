@@ -6,7 +6,6 @@
 
 [![License: CERN OHL-P v2](https://img.shields.io/badge/License-CERN%20OHL--P%20v2-blue.svg)](./LICENSE)
 [![Discussions](https://img.shields.io/badge/Community-Discussions-black?logo=github)](../../discussions)
-[![Docs](https://img.shields.io/badge/docs-index-informational.svg)](./docs/README.md)
 
 > Ultra-compact, high-force **piezo** actuators for robotics, precision automation, and embedded systems.  
 > Hardware, electronics, firmware, CAD, and docs are **fully open** under **CERN OHL-P v2**.
