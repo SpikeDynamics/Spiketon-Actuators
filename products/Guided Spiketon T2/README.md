@@ -1,5 +1,5 @@
 Guided Spiketon T2
-<img src="products/Guided%20Spiketon%20T2/images/T2.png" alt="Guided Spiketon T2 Actuator" width="300">
+<img src="products/Guided%20Spiketon%20T2/images/T2.png" alt="Guided Spiketon T2" width="300">
 Guided Spiketon T2 is a Spiketon Actuator for moving back and forth along a rod or a wire (guide). 
 
 Front and rare clamps grip the wire at the appropriate time. This design has its advantages and disadvantages. 
