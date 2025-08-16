@@ -98,9 +98,11 @@ CONTRIBUTING.md → Guidelines for contributors
 
 ## 🔌 Applications
 
-- Precision motion (XY stages, dispensers, 3D printers, laser positioning)  
+- Precision motion (XY stages, dispensers, 3D printers, laser or camera positioning)  
 - Embedded automation where **motors don’t fit** (flat, non-magnetic, clean)  
 - Medical / lab tools (low EMI, compact, no lubrication)
+- Robotics (low weight, long stroke, compact, silent, keep position without consuming energy)
+- Space (low mass, significant force, wide temperature range: from -150C to 320C, vacuum tolerant, radiation hardened) 
 
 ---
 
