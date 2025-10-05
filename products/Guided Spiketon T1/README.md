@@ -1,11 +1,11 @@
 Guided Spiketon T1 is a Spiketon Actuator for moving back and forth along a rod or a wire (guide). 
 
-Guided Spiketon T2
-<img src="images/Spiketon T1.png" alt="Guided Spiketon T1" width="300">
+
+<img src="images/Spiketon T1.png" alt="Guided Spiketon T1" width="400">
 
 Guided Spiketon T1 is a Spiketon Actuator for moving the rod (guide) back and forth along the actuator body. 
 
-Front and rare clamps grip the wire at the appropriate time. 
+Front and rear clamps grip the wire at the appropriate time. 
 
 
 The movement along a wire or a rod looks like this:
