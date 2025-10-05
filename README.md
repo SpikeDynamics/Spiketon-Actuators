@@ -85,7 +85,7 @@ CONTRIBUTING.md → Guidelines for contributors
 
 ## 🧭 Products (jump straight in)
 
-- **Spike AA1 — Amplified actuator** → [`/products/Spike AA1/`] (products/Spike%20AA1/)
+- **Spike AA1 — Amplified actuator** → [`/products/Spike AA1/`](products/Spike%20AA1/)
 - **Spike AA2 — Amplified actuator** → [`/products/Spike%20AA2/] 
 - **Spike Rotary Motor R1 — Rotary piezo concept** → [`/products/spike-rotary-r1/`](products/spike-rotary-r1/)  
 - **Guided SpikeTon T1 — Guided rail variant** → [`/products/guided-spiketon-t1/`](products/guided-spiketon-t1/)  
