@@ -40,6 +40,7 @@ Materials:
   - Die cutting (blanking) -  it's a good method to make small, non-expensive actuators (mass production)
 
   M1 comprises the metal frame having two clamps(two pairs of legs)
+  You may use one Spiketon M1 or two for 2-levels rails. One M1 is for rough movement and the second M1 is for fine movement.
   
 
   The size and force depend on the type of piezostacks used.
