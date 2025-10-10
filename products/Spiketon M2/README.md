@@ -1,7 +1,8 @@
 Spiketon M2 is a compact, lightweight, high-precision, simple linear actuator with a carriage moving along a single rail.
 
 
-<img src="images/Green Spiketon M1.png" alt="Spiketon M1" width="400">
+<img src="images/Screen Shot 2024-03-09 at 18.23.22.png" alt="Spiketon M2" width="400">
+<img src="images/Screen Shot 2024-03-09 at 18.24.09.png" alt="Spiketon M2 with a rail" width="400">
 
 Guided Spiketon M1 is a Spiketon Actuator for moving the carriage (the body of the device) back and forth along the rail. 
 
