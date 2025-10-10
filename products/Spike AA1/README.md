@@ -1,13 +1,15 @@
 Amplified Linear Actuator Spike AA1
-AA1 is a lightweight Amplified Actuator for moving the tip of the actuator up to 0.5mm-1mm with a pushing force up to 1000N and high frequency. It can be used as a standalone product or as a part of amore complex product (like Spiketon).
+AA1 is a lightweight Amplified Actuator for moving the tip of the actuator up to 0.5mm-1mm with a pushing force up to 1000N and high frequency. It can be used as a standalone product or as part of a more complex product (such as Spiketon).
 
 What AA1 Is For
+
 The purpose of the AA1 is to amplify the oscillations of a piezo stack within a compact volume.
  If the amplification ratio is 10, then with piezo stack vibrations of 100 microns, the AA1 produces oscillations in the same direction of about 1 mm.
  Since levers are involved, the generated force decreases proportionally. However, the compactness of this device is unprecedented.
 There are amplified actuators in the world designed for the same purpose, but they are typically bulky and heavy.
 
 AA1 Structure
+
 The AA1 consists of several parts.
  Two identical metal plates are placed at the top and bottom. They include all the required links and levers for proper operation.
  Each plate has three pairs of holes on its support pads — used for joining with pins, bolts, or rivets. 
@@ -17,6 +19,7 @@ Between the support pads, thick metal shims are placed. These can be spot-welded
  The whole structure has a bit of spring compliance, so the piezo stack is securely held by elastic force.
 
 How It Works
+
 Typically, a piezo stack can increase its length by about 0.1%.
  You may find the movements on the video. The acting forces are shown with arrows.
  When the piezo stack changes its height slightly, the overall height of the device changes by roughly an order of magnitude more (≈1%).
@@ -24,6 +27,7 @@ In the accompanying FEA (Finite Element Analysis) simulation, the deformations a
  The same analysis can be performed using other CAD tools such as Autodesk Fusion 360 or Ansys.
 
 Why Compact Amplified Actuators Matter
+
 Why is it so important to make a compact amplified actuator?
  Because it moves the system from the micron range into the millimeter range.
  Micron-scale mechanisms require extremely precise parts and expensive manufacturing equipment.
@@ -32,6 +36,7 @@ Another consequence: this transition moves the actuator out of the high-cost, ul
  This makes it possible to achieve much higher motion speeds while maintaining excellent precision and repeatability.
 
 Application in the Modified M1
+
 We used AA1  to create a modified version of the M1 actuator (see figure).
 What’s interesting about the result?
  Because each step of the actuator is now 10× longer, we gained the ability to increase the linear motion speed by a factor of 10.
