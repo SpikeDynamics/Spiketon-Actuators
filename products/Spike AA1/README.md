@@ -1,6 +1,7 @@
 # Amplified Linear Actuator Spike AA1
 
-<img src="images/Spiketon T1.png" alt="Guided Spiketon T1" width="400">
+<img src="images/AA1-1.png" alt="Amplified Actuator Spike AA1" width="400">
+<img src="images/AA1-2.png" alt="Amplified Actuator Spike AA1" width="400">
 AA1 is a lightweight Amplified Actuator for moving the tip of the actuator up to 0.5mm-1mm with a pushing force up to 1000N and high frequency. It can be used as a standalone product or as part of a more complex product (such as Spiketon).
 
 ## What AA1 Is For
