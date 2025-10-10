@@ -24,7 +24,7 @@ Between the support pads, thick metal shims are placed. These can be spot-welded
 ## How It Works
 
 Typically, a piezo stack can increase its length by about 0.1%.
- You may find the movements on the video. The acting forces are shown with arrows.
+ You may find the movements on the video <img src="video/video1.mp4" alt="video A1 deformation" width="400">. The acting forces are shown with arrows.
  When the piezo stack changes its height slightly, the overall height of the device changes by roughly an order of magnitude more (≈1%).
 In the accompanying FEA (Finite Element Analysis) simulation, the deformations appear exaggerated — this is a standard visualization mode in SolidWorks, which was used for modeling.
  The same analysis can be performed using other CAD tools such as Autodesk Fusion 360 or Ansys.
