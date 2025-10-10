@@ -38,7 +38,7 @@ Why is it so important to make a compact amplified actuator?
 Another consequence: this transition moves the actuator out of the high-cost, ultra-precise, ultra-slow market segment and into the affordable, high-speed market.
  This makes it possible to achieve much higher motion speeds while maintaining excellent precision and repeatability.
 
-## Application in the Modified M1
+## AA1 Application in the Modified M1
 
 We used AA1  to create a modified version of the M1 actuator (see figure AA1 as the central element of M1.jpg).<img src="images/AA1 as the central element of M1.jpg" alt="AA1 as the central element of M1" width="400">
 What’s interesting about the result?
