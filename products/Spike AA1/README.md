@@ -40,14 +40,14 @@ Another consequence: this transition moves the actuator out of the high-cost, ul
 
 ## Application in the Modified M1
 
-We used AA1  to create a modified version of the M1 actuator (see figure).
+We used AA1  to create a modified version of the M1 actuator (see figure AA1 as the central element of M1.jpg).<img src="images/AA1 as the central element of M1.jpg" alt="AA1 as the central element of M1" width="400">
 What’s interesting about the result?
  Because each step of the actuator is now 10× longer, we gained the ability to increase the linear motion speed by a factor of 10.
 The trade-off is a reduced maximum generated force.
  To compensate, the cross-sectional area of the piezo stack must be increased roughly 10×.
 During M1 operation, the ends of its legs follow an elliptical trajectory.
  The ellipse dimensions are determined by the motion of the central section (the body of the actuator) and the front/rear sections (the clamps or jaws).
-Previously, the M1 step size was too small to use toothed rails — the distance between teeth was bigger than the step. By other words, teeth were to small to be properly implemented. 
+Previously, the M1 step size was too small to use toothed rails — the distance between teeth was bigger than the step. In other words, the teeth were too small to be properly implemented. 
 
  Now, with an amplified actuator in the central section, the design allows the use of teeth (see figure).
 In this new M1 modification, the carriage legs are held not by friction but by mechanical interlocking with teeth, which provides maximum holding force for configurations using larger piezo stacks and higher forces.
