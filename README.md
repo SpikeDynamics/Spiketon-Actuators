@@ -88,8 +88,8 @@ CONTRIBUTING.md → Guidelines for contributors
 - **Guided SpikeTon T1 — Guided rod/wire design with outstanding jaws** → [`/products/Guided Spiketon T1/`](products/Guided%20Spiketon%20T1/)  
 - **Guided SpikeTon T2 — Guided rod/wire design flat** → [`/products/Guided Spiketon T2/`](products/Guided%20Spiketon%20T2/) 
 - **Spike AA1 — Amplified actuator** → [`/products/Spike AA1/`](products/Spike%20AA1/)
-- **Spike AA2 — Amplified actuator** → [`/products/Spike AA2/](products/Spike%20AA2/)
-- **Spike Rotary Motor R1 — Rotary piezo concept** → [`/products/Spike Rotary Motor R1/`](products/Spike%20Rotary%20Motor R1/)  
+- **Spike AA2 — Amplified actuator** → [`/products/Spike AA2/`](products/Spike%20AA2/)
+- **Spike Rotary Motor R1 — Rotary piezo concept** → [`/products/Spike Rotary Motor R1/`](products/Spike%20Rotary%20Motor%20R1/)  
 - **SpikeTon M2 — Minimal-BOM linear** → [`/products/spiketon-m2/`](products/spiketon-m2/)  
 - **SpikeTon Muscle SM1 — Wire/rod rider** → [`/products/spiketon-muscle-sm1/`](products/spiketon-muscle-sm1/)
 
