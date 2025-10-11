@@ -15,7 +15,7 @@
 ## 🎬 Project video & what this does
 
 
- - ▶️ **Watch:** [SpikeTon overview video](examples/)  
+<!-- ToDo - ▶️ **Watch:** [SpikeTon overview video](examples/)  -->
   
 
 - **What this project does**
@@ -32,7 +32,7 @@
 |---                      |---                                                                        |
 | Typical drive           | 100–150 V piezo drive (sine wave)                                   |
 | Nominal force           | single stack ~300 N                            |
-| Stroke / step           | _TBD_ mm / sub-mm stepping                                                |
+| Step                    | 10 micron - 1mm                                                |
 | Frequency range         | Up to 20000HZ                              |
 | Key features            | Non-magnetic, radiation-tolerant, vacuum-compatible, low profile          |
 | Materials               | Spring steel / titanium alloys / ceramics (variant-dependent)             |
@@ -85,6 +85,8 @@ CONTRIBUTING.md → Guidelines for contributors
 
 ## 🧭 Products (jump straight in)
 
+- **Guided SpikeTon T1 — Guided rail variant** → [`/products/guided-spiketon-t1/`](products/Guided Spiketon T1/)  
+- **Guided SpikeTon T2 — Updated guided design** → [`/products/guided-spiketon-t2/`](products/guided-spiketon-t2/) 
 - **Spike AA1 — Amplified actuator** → [`/products/Spike AA1/`](products/Spike%20AA1/)
 - **Spike AA2 — Amplified actuator** → [`/products/Spike AA2/](products/Spike%20AA2/)
 - **Spike Rotary Motor R1 — Rotary piezo concept** → [`/products/spike-rotary-r1/`](products/spike-rotary-r1/)  
