@@ -15,7 +15,7 @@
 ## 🎬 Project video & what this does
 
 
-// - ▶️ **Watch:** [SpikeTon overview video](examples/)  
+ - ▶️ **Watch:** [SpikeTon overview video](examples/)  
   
 
 - **What this project does**
