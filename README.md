@@ -90,7 +90,9 @@ CONTRIBUTING.md → Guidelines for contributors
 - **Spike AA1 — Amplified actuator** → [`/products/Spike AA1/`](products/Spike%20AA1/)
 - **Spike AA2 — Amplified actuator** → [`/products/Spike AA2/`](products/Spike%20AA2/)
 - **Spike Rotary Motor R1 — Rotary piezo concept** → [`/products/Spike Rotary Motor R1/`](products/Spike%20Rotary%20Motor%20R1/)  
-- **SpikeTon M2 — Minimal-BOM linear** → [`/products/spiketon-m2/`](products/spiketon-m2/)  
+- **SpikeTon M1 — Minimal-BOM linear, simple and strong, double rail** → [`/products/Spiketon M1/`](products/Spiketon%20M1/)
+- **SpikeTon M2 — Linear, with outstanding jaws, single rail** → [`/products/Spiketon M2/`](products/Spiketon%20M2/)
+- **SpikeTon M3 — Minimal-BOM linear, double wire, regulated stiffness** → [`/products/Spiketon M3/`](products/Spiketon%20M3/)  
 - **SpikeTon Muscle SM1 — Wire/rod rider** → [`/products/spiketon-muscle-sm1/`](products/spiketon-muscle-sm1/)
 
 
