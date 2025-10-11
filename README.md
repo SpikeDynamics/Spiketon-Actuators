@@ -12,7 +12,7 @@
 
 ---
 
-## 🎬 Project video & what this does
+<!-- ## 🎬 Project video & what this does -->
 
 
 <!-- ToDo - ▶️ **Watch:** [SpikeTon overview video](examples/)  -->
@@ -85,15 +85,15 @@ CONTRIBUTING.md → Guidelines for contributors
 
 ## 🧭 Products (jump straight in)
 
-- **Guided SpikeTon T1 — Guided rod/wire design with outstanding jaws** → [`/products/Guided Spiketon T1/`](products/Guided%20Spiketon%20T1/)  
-- **Guided SpikeTon T2 — Guided rod/wire design flat** → [`/products/Guided Spiketon T2/`](products/Guided%20Spiketon%20T2/) 
+- **Guided Spiketon T1 — Guided rod/wire design with outstanding jaws** → [`/products/Guided Spiketon T1/`](products/Guided%20Spiketon%20T1/)  
+- **Guided Spiketon T2 — Guided rod/wire design flat** → [`/products/Guided Spiketon T2/`](products/Guided%20Spiketon%20T2/) 
 - **Spike AA1 — Amplified actuator** → [`/products/Spike AA1/`](products/Spike%20AA1/)
 - **Spike AA2 — Amplified actuator** → [`/products/Spike AA2/`](products/Spike%20AA2/)
 - **Spike Rotary Motor R1 — Rotary piezo concept** → [`/products/Spike Rotary Motor R1/`](products/Spike%20Rotary%20Motor%20R1/)  
-- **SpikeTon M1 — Minimal-BOM linear, simple and strong, double rail** → [`/products/Spiketon M1/`](products/Spiketon%20M1/)
-- **SpikeTon M2 — Linear, with outstanding jaws, single rail** → [`/products/Spiketon M2/`](products/Spiketon%20M2/)
-- **SpikeTon M3 — Minimal-BOM linear, double wire, regulated stiffness** → [`/products/Spiketon M3/`](products/Spiketon%20M3/)  
-- **SpikeTon Muscle SM1 — Wire/rod rider** → [`/products/spiketon-muscle-sm1/`](products/spiketon-muscle-sm1/)
+- **Spiketon M1 — Minimal-BOM linear, simple and strong, double rail** → [`/products/Spiketon M1/`](products/Spiketon%20M1/)
+- **Spiketon M2 — Linear, with outstanding jaws, single rail** → [`/products/Spiketon M2/`](products/Spiketon%20M2/)
+- **Spiketon M3 — Minimal-BOM linear, double wire rider, regulated stiffness** → [`/products/Spiketon M3/`](products/Spiketon%20M3/)  
+- **Spiketon Muscle SM1 — Wire rider** → [`/products/Spiketon Muscle SM1/`](products/Spiketon%20Muscle%20SM1/)
 
 
 ---
@@ -102,7 +102,7 @@ CONTRIBUTING.md → Guidelines for contributors
 
 - Precision motion (XY stages, dispensers, 3D printers, laser or camera positioning)  
 - Embedded automation where **motors don’t fit** (flat, non-magnetic, clean)  
-- Medical / lab tools (low EMI, compact, no lubrication)
+- Medical / lab tools (high force, small size, low EMI, compact, no lubrication)
 - Robotics (low weight, long stroke, compact, silent, keep position without consuming energy)
 - Space (low mass, significant force, wide temperature range: from -150C to 320C, vacuum tolerant, radiation hardened) 
 
