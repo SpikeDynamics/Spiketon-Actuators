@@ -85,8 +85,8 @@ CONTRIBUTING.md → Guidelines for contributors
 
 ## 🧭 Products (jump straight in)
 
-- **Guided SpikeTon T1 — Guided rail variant** → [`/products/Guided Spiketon T1/`](products/Guided Spiketon T1/)  
-- **Guided SpikeTon T2 — Updated guided design** → [`/products/guided-spiketon-t2/`](products/guided-spiketon-t2/) 
+- **Guided SpikeTon T1 — Guided rail variant** → [`/products/Guided Spiketon T1/`](products/Guided%20Spiketon%20T1/)  
+- **Guided SpikeTon T2 — Updated guided design** → [`/products/Guided Spiketon T2/`](products/Guided%20Spiketon%20T2/) 
 - **Spike AA1 — Amplified actuator** → [`/products/Spike AA1/`](products/Spike%20AA1/)
 - **Spike AA2 — Amplified actuator** → [`/products/Spike AA2/](products/Spike%20AA2/)
 - **Spike Rotary Motor R1 — Rotary piezo concept** → [`/products/spike-rotary-r1/`](products/spike-rotary-r1/)  
